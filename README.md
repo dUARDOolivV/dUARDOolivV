@@ -2,7 +2,7 @@
 
 Meu nome é Eduardo Vieira
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo no JavaScript
 - Ultilizo esse espaço para minha organização e compartilhamento de meus projetos desenvolvidos
 
