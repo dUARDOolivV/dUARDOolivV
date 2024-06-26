@@ -9,3 +9,5 @@ Meu nome é Eduardo Vieira
 ### Você entrar em contato comigo📫
 
 00001113972749sp@al.educacao.sp.gov.br
+
+![](https://media.tenor.com/3oz_BZr9qo8AAAAM/richard-gumball.gif)
